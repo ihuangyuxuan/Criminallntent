@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Criminallntent</string>
+    <string name="crime_title_hint">输入违犯纪律的标题.</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">详细信息</string>
+    <string name="crime_solved_label">已解决</string>
+
+</resources>
